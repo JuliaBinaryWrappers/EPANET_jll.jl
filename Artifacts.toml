@@ -1,0 +1,160 @@
+[[EPANET]]
+arch = "aarch64"
+git-tree-sha1 = "e6af71a182a33e2d451d3f817418943b138483ff"
+os = "macos"
+
+    [[EPANET.download]]
+    sha256 = "aebde1393df4c6c061b181641cef9ed9180eac82660b4a546454c24cd2473cd7"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.aarch64-apple-darwin.tar.gz"
+[[EPANET]]
+arch = "aarch64"
+git-tree-sha1 = "34946e4710694a8b1123813e76b7094dcd0961bc"
+libc = "glibc"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "187bc348212d8b93b439ec5ab75c56fea442ef456c78be61faaa5580b8d19307"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.aarch64-linux-gnu.tar.gz"
+[[EPANET]]
+arch = "aarch64"
+git-tree-sha1 = "9020c8a144da40c2d013a26b71c5e7e378492b73"
+libc = "musl"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "abb66f1983b62de4967609300ad5ed6c215a863b2d3b0412b45f698172866be8"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.aarch64-linux-musl.tar.gz"
+[[EPANET]]
+arch = "aarch64"
+git-tree-sha1 = "05cb1e0092d9942b654a57d82a1dd493b9018692"
+os = "freebsd"
+
+    [[EPANET.download]]
+    sha256 = "56cc2667a8514fd07714c97bb36e6eb186fba4db08367cd2d2fda0632b7b2bb8"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.aarch64-unknown-freebsd.tar.gz"
+[[EPANET]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "237dab1d56ac59188e0e3dd270377c1c8e0eed70"
+libc = "glibc"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "6be3ca6f8149d6a864e402e655df3cc2bf87a69aca9daf4a1d17f9fb368e8e7e"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.armv6l-linux-gnueabihf.tar.gz"
+[[EPANET]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "d9304f9f6a5e25a97e1d1f7f2032c91bb3c38637"
+libc = "musl"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "4a7ced9d1eef6c0fc8905035d7ae006091f1aa5c90a1f86a03f73ee57eaa8e39"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.armv6l-linux-musleabihf.tar.gz"
+[[EPANET]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "afe57d230f272606346c01f6f88ff099d3bbad2e"
+libc = "glibc"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "d607e8892a94baf6caccfdfe9bfd5b22c827c1f2d5a07b4b6260ec601858cb00"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[EPANET]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "2ae38ffb79da6b34d15c84d653b7719d658abd55"
+libc = "musl"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "25cead3bb28fc1de0986a8cf7afe6b03be846ddcce981637be1da15d0b7cc75b"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.armv7l-linux-musleabihf.tar.gz"
+[[EPANET]]
+arch = "i686"
+git-tree-sha1 = "bff1ffd9ecb653512efeb0acb53b468da4978919"
+libc = "glibc"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "e1de7f23c206c243d83855780b2caa511769fc64119cf073ce494adeebc0bdd6"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.i686-linux-gnu.tar.gz"
+[[EPANET]]
+arch = "i686"
+git-tree-sha1 = "25cd8996246f939c1ca7de4eda585c1b4a2d04a7"
+libc = "musl"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "465098a145d0aa25b9d6886813149cc1a6efa81598fbe0a390c4e22f1fdda20e"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.i686-linux-musl.tar.gz"
+[[EPANET]]
+arch = "i686"
+git-tree-sha1 = "69861bda8ed6ac2c47337c548c47be7977e8e083"
+os = "windows"
+
+    [[EPANET.download]]
+    sha256 = "7075e15d30b62e4a68bf2c8b4c2225b86e4b2a4210bb7b2ca474e790473cf7d1"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.i686-w64-mingw32.tar.gz"
+[[EPANET]]
+arch = "powerpc64le"
+git-tree-sha1 = "cc47506564f30cf398f8b0705ff90243a4699a43"
+libc = "glibc"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "42a7a9640a8db472c1b15d2006501f36b5d1d176187bb46be54d1af110005c7e"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.powerpc64le-linux-gnu.tar.gz"
+[[EPANET]]
+arch = "riscv64"
+git-tree-sha1 = "37a99e62e4b279dcb6fe4fa7ef70fafdc5184f2a"
+libc = "glibc"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "da65586318331a29e94922ddcef20efc8ae41fb2d5873507b9ee0fa92cacf3fc"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.riscv64-linux-gnu.tar.gz"
+[[EPANET]]
+arch = "x86_64"
+git-tree-sha1 = "37c8a7966663d21b0da0baa414afbcad634b2ee0"
+os = "macos"
+
+    [[EPANET.download]]
+    sha256 = "112feaac02eb0dd8dc0d76ea06298af60c02aadfe2d1e92b4d302b8af7bcb00c"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.x86_64-apple-darwin.tar.gz"
+[[EPANET]]
+arch = "x86_64"
+git-tree-sha1 = "5e59426b173c66d4d6ec68a30c5e77463ed467ea"
+libc = "glibc"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "66edfa0ea675f9991de5b30cb6c0c9c04644558a3a05279649f6f550feaf7ad3"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.x86_64-linux-gnu.tar.gz"
+[[EPANET]]
+arch = "x86_64"
+git-tree-sha1 = "ae2075b8990596e2585dcb767a8f18ff189e2d07"
+libc = "musl"
+os = "linux"
+
+    [[EPANET.download]]
+    sha256 = "05f33a7a7222f471c06f8bb3fc00d3f9c699bbcbc8c3676770fa98826c795b93"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.x86_64-linux-musl.tar.gz"
+[[EPANET]]
+arch = "x86_64"
+git-tree-sha1 = "da94ac469e0a70f7d76953da248e52b74110048f"
+os = "freebsd"
+
+    [[EPANET.download]]
+    sha256 = "fd31fbbad6a9587ff61a7b8670a4be6bb50d7651c0d7b04f890e775e7b4ae1bf"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.x86_64-unknown-freebsd.tar.gz"
+[[EPANET]]
+arch = "x86_64"
+git-tree-sha1 = "d1da2b69438dbcd2169dd00512656509673f4c2a"
+os = "windows"
+
+    [[EPANET.download]]
+    sha256 = "b920a07115bffef475e9ebbb36eae000ded5a2702f114ec0465b2a40aafbccca"
+    url = "https://github.com/JuliaBinaryWrappers/EPANET_jll.jl/releases/download/EPANET-v2.2.0+0/EPANET.v2.2.0.x86_64-w64-mingw32.tar.gz"
